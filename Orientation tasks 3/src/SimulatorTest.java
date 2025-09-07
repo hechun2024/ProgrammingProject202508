@@ -97,3 +97,4 @@ public class SimulatorTest {
         sp.processCustomers(clock.getTime());
     }
 }
+
