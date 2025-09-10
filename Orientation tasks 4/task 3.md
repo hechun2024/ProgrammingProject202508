@@ -27,7 +27,7 @@ flowchart LR
 
 - Service Point 4: Boarding gate
 
-![Airport.png](airport.png)
+![Airport.png](Airport.png)
 Diagram code in mermaid:
 ```mermaid code
 flowchart LR
