@@ -1,6 +1,7 @@
 
 ## Task 4 (W) – Event scheduling algorithm
 
+```pseudocode
 INITIALIZE simulation (set clock = 0, event list with initial arrivals)
 
 WHILE (simulation not finished) DO
@@ -23,3 +24,5 @@ ADVANCE clock to time of next event
 END WHILE
 
 PRINT results
+
+```
